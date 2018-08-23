@@ -1,9 +1,10 @@
-.section-search input {
+#map {
     padding: 5px !important;
     font-size: 18px!important;
-    width: 90%!important;
+    width: 80%!important;
+    height: 600px;
     border: #f4f4f4 3px solid !important;
-    
+    margin: auto;
 }
 .section-follow .fa-4x{
     margin: 5px 10px;
@@ -11,3 +12,5 @@
 .gallery-title {
     margin-bottom: 15px;
     border-bottom: rgb(0, 150, 136)2px solid; !important;
+
+    
